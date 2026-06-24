@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/gomathiazhagiri-byte/attendance-dashboard1.git/static/css/main.8d05a256.css",
-    "main.js": "/gomathiazhagiri-byte/attendance-dashboard1.git/static/js/main.3e13a80d.js",
-    "index.html": "/gomathiazhagiri-byte/attendance-dashboard1.git/index.html",
-    "main.8d05a256.css.map": "/gomathiazhagiri-byte/attendance-dashboard1.git/static/css/main.8d05a256.css.map",
-    "main.3e13a80d.js.map": "/gomathiazhagiri-byte/attendance-dashboard1.git/static/js/main.3e13a80d.js.map"
+    "main.css": "/attendance-dashboard1.git/static/css/main.8d05a256.css",
+    "main.js": "/attendance-dashboard1.git/static/js/main.3e13a80d.js",
+    "index.html": "/attendance-dashboard1.git/index.html",
+    "main.8d05a256.css.map": "/attendance-dashboard1.git/static/css/main.8d05a256.css.map",
+    "main.3e13a80d.js.map": "/attendance-dashboard1.git/static/js/main.3e13a80d.js.map"
   },
   "entrypoints": [
     "static/css/main.8d05a256.css",
